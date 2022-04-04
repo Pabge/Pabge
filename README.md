@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pabge
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Pablo 
+- 👀 I’m interested in Software and technology
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on multidisciplinary teams or new projects where I can learn more  
+- 📫 How to reach me: pablogares2@gmail.com
 
 <!---
 Pabge/Pabge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
